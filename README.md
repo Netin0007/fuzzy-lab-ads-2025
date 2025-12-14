@@ -1,7 +1,6 @@
 # Projeto de Sistema Fuzzy: Avaliação de Qualidade de Produto
 
 ## 👥 Identificação da Dupla
-| Nome Completo | Usuário GitHub |
 | Edilson Gonçalves Alves | Netin0007 |
 | Paulo Cosmo | Paulo Cosmo55 |
 
